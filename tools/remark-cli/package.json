@@ -11,7 +11,7 @@
   ],
   "dependencies": {
     "markdown-extensions": "^1.1.0",
-    "remark": "^8.0.0",
+    "remark": "^14.0.2",
     "unified-args": "^4.0.0"
   },
   "homepage": "http://remark.js.org",
